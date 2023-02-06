@@ -1,0 +1,8 @@
+#Node Modules
+node_modules/
+
+#Dist
+public/**
+
+#Env
+package-lock.json
